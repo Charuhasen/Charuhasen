@@ -6,6 +6,7 @@
 
 ### Current Workflow:
 
+* NextJS
 * Javascript
 * HTML|CSS|Tailwind CSS
 * Python
