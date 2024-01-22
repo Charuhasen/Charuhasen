@@ -6,11 +6,12 @@
 
 ### Current Workflow:
 
-* NextJS
+* React
+* Redux
 * Javascript
+* Node/Express
 * HTML|CSS|Tailwind CSS
 * Python
-* Node/Express
 * Fast API
 
 <div id="badges" align="center">
