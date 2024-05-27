@@ -1,4 +1,4 @@
-## Hi, I'm Charu 👋 | A software and web developer.
+## Hi, I'm Charu 👋 | A web developer.
 
 ## About me:
 * Masters in Computer Science, (Nottingham Trent University, 2023)
